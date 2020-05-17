@@ -15,7 +15,7 @@
             <div class="col-md-12"> 
                 <div class="page header">   
                     <h1>
-                            Busqueda de contratos
+                            Busqueda de contratoss
                             {{ Form::open (['route' => 'contrato', 'method' => 'GET', 'class' => 'form-inline pull-right'])}}
                             
                             <div class="form-group">
